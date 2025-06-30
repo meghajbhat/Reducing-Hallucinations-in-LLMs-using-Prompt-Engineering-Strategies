@@ -145,8 +145,8 @@ If you use this work in your research, please cite!
 
 ## 👥 Team
 
-| Name | Role | GitHub |
-|------|------|--------|
+| Name | Role | 
+|------|------|
 | **Megha Bhat**  | [PES1UG22CS344 |
 | **Hrishita Patra**  | PES1UG22CS241 |
 | **Jahnavi Bobba**  | PES1UG22CS246 |
