@@ -150,7 +150,6 @@ If you use this work in your research, please cite!
 | **Megha Bhat**  | [PES1UG22CS344 |
 | **Hrishita Patra**  | PES1UG22CS241 |
 | **Jahnavi Bobba**  | PES1UG22CS246 |
-| **Keerthi K**  | PES1UG22CS284 |
 
 **Supervisor**: Dr. Surabhi Narayan, PES University, Bengaluru
 
